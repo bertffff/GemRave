@@ -1,7 +1,0 @@
-{
-  "name": "TeleRave",
-  "description": "Watch movies and videos together with friends directly in Telegram.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
